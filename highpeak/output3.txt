@@ -1,0 +1,5 @@
+Here the goodis that are selected for distribution are:
+          Goodies  Price
+0  Microwave Oven   9800
+1           Alexa   9999
+And the difference between the chosen goodie with highest price and the lowest price is: 199

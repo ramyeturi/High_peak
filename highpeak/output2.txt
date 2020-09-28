@@ -1,0 +1,9 @@
+Here the goodis that are selected for distribution are:
+            Goodies  Price
+0  Sandwich Toaster   2195
+1         Cult Pass   2799
+2             Scale   4999
+3       Fitbit Plus   7980
+4    Microwave Oven   9800
+5             Alexa   9999
+And the difference between the chosen goodie with highest price and the lowest price is: 7804
